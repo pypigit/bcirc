@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bcirc",
-    version="0.0.1",
+    version="0.0.2",
     author="Tamas Hubai",
     author_email="python@htamas.net",
     description="Boolean circuits package for my students",
